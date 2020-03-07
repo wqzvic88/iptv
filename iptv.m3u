@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
-http://61.151.179.192/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 ,CCTV-2
 rtsp://27.148.219.129:554/live/ch17092208064869858322.sdp?playtype=1&boid=001&backupagent=27.148.219.129:554&clienttype=1&time=20191117235503+08&life=172800&ifpricereqsnd=1&vcdnid=001&userid=5922751202156&mediaid=ch17092208064869858322&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=0&stbid=65100499007034400000288CB89A9654&nodelevel=3&AuthInfo=BESeR9eMRDi8RsZJsJm5ubp8oBukTMa0qFw9c8POQwJPPOs560ILJc4KpVFFgelPtcJ7NgDL0pa6L%2FNky0Uo7A%3D%3D&bitrate=2000 RTSP/1.0
 #EXTINF:-1 ,CCTV3
